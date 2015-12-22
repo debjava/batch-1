@@ -1,0 +1,12 @@
+{
+  "1.0": {
+    "project_path": ":",
+    "project_dir": "C:\\school-batch\\batch-1",
+    "connection_project_dir": "C:\\school-batch\\batch-1",
+    "connection_gradle_user_home": "C:\\devsoft\\mavenrepo",
+    "connection_gradle_distribution": "GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(C:\\devsoft\\gradle-2.9))",
+    "connection_java_home": "C:\\devsoft\\java\\jdk7",
+    "connection_jvm_arguments": "",
+    "connection_arguments": ""
+  }
+}
